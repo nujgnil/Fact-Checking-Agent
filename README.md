@@ -80,7 +80,7 @@ pip install -r requirements.txt
 ```
 Until requirements.txt is finalised, you can install packages incrementally as they are introduced into the codebase.
 
-Planned Project Structure
+### Planned Project Structure
 
 This structure is indicative and will be filled in as development progresses:
 
